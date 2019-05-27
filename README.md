@@ -9,3 +9,9 @@
 ## Data source
 
 Chicago restaurant inspection data from 2010 to 2017 on [Kaggle](https://www.kaggle.com/chicago/chi-restaurant-inspections)
+
+## Dashboard
+
+Check out this dashboard [here](https://public.tableau.com/profile/angang.li8778#!/vizhome/restaurant_inspection/Dashboard4)
+
+<img src="resources/screenshot.png">
